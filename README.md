@@ -244,7 +244,7 @@ suricata-ids-ips-lab/
 - [x] NAT adapter configured
 - [x] Internal `LAB-SEC` network created
 - [x] Kali network interfaces identified
-- [ ] Configure static IPv4 address on Kali `eth1`
+- [x] Configure static IPv4 address on Kali `eth1`
 - [ ] Deploy Ubuntu Server VM
 - [ ] Configure Ubuntu `LAB-SEC` interface
 - [ ] Validate communication between both VMs
