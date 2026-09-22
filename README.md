@@ -246,8 +246,8 @@ suricata-ids-ips-lab/
 - [x] Kali network interfaces identified
 - [x] Configure static IPv4 address on Kali `eth1`
 - [x] Deploy Ubuntu Server VM
-- [ ] Configure Ubuntu `LAB-SEC` interface
-- [ ] Validate communication between both VMs
+- [x] Configure Ubuntu `LAB-SEC` interface
+- [x] Validate communication between both VMs
 - [ ] Capture baseline traffic with Wireshark
 - [ ] Install and configure Suricata
 - [ ] Perform IDS detection tests
