@@ -248,13 +248,13 @@ suricata-ids-ips-lab/
 - [x] Deploy Ubuntu Server VM
 - [x] Configure Ubuntu `LAB-SEC` interface
 - [x] Validate communication between both VMs
-- [ ] Capture baseline traffic with Wireshark
-- [ ] Install and configure Suricata
-- [ ] Perform IDS detection tests
-- [ ] Create custom Suricata rules
-- [ ] Configure IPS mode
-- [ ] Perform IPS prevention tests
-- [ ] Compare IDS and IPS behavior
+- [x] Capture baseline traffic with Wireshark
+- [x] Install and configure Suricata
+- [x] Perform IDS detection tests
+- [x] Create custom Suricata rules
+- [x] Configure IPS mode
+- [x] Perform IPS prevention tests
+- [x] Compare IDS and IPS behavior
 - [ ] Document results and evidence
 
 ## Security and Isolation
